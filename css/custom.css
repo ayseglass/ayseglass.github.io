@@ -1,0 +1,125 @@
+body {
+   background: url(../img/slide-01.jpg) repeat 0 0;
+}
+
+.frontpage {
+    padding: 70px 0 20px;
+    margin-bottom: 0;
+    color: #fff;
+    margin-left:0;
+    text-align: center;
+}
+
+.frontpage h1 {
+    font-size: 120px;
+    line-height: 1;
+    letter-spacing:-2px;
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.frontpage p {
+    font-size: 40px;
+    font-weight: 200;
+    line-height: 1.25;
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.contact {
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+   padding: 60px;
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-bottom: 130px;
+    padding-left: 60px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.7);
+
+}
+
+.blogs {
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    color: white;
+}
+
+.portfolio-sidebar {
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, .065);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .065);
+    color: white;
+    background-color: #fff;
+    padding: 0px;
+    top: 40px;
+    width: 180px;
+    margin-top: 30px;
+    height: 90px;
+}
+.portfolio-pictures {
+    margin-top: 30px;
+    background-color:rgba(255, 255, 255, 0.7);
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.about {
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: #fff;
+  
+}
+
+h1 {
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 18px;
+}
+h3 {
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+}
+
+dl {
+    font-family: open-sans-condensed, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+}
+.person {
+	float: left;
+	width: 300px;
+}
+
+.offices {
+	padding: 20px;
+	float: left;
+}
